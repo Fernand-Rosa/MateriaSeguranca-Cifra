@@ -1,0 +1,11 @@
+A segurança da informação é um conjunto de ações e estratégias para proteger sistemas, programas, equipamentos e redes de invasões. O objetivo principal é proteger dados valiosos de possíveis violações ou ataques. As atividades e rotinas em segurança da informação devem ser orientadas por cinco pilares: 
+Confidencialidade: garante que as informações só sejam acessíveis a pessoas autorizadas. 
+Integridade: garante que os dados não possam ser alterados sem autorização. 
+Disponibilidade: garante que os dados e sistemas estejam disponíveis para pessoas autorizadas quando necessário. 
+Autenticidade 
+Irretratabilidade 
+Para garantir a segurança da informação, você pode: 
+Usar apenas sistemas operacionais e programas originais 
+Desativar serviços desnecessários e desinstalar aplicativos que não são utilizados 
+Desativar o compartilhamento de arquivos, se não for necessário 
+Ser cuidadoso ao usar cookies, caso deseje ter mais privacidade 
