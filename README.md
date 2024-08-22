@@ -1,5 +1,5 @@
 <h1>Exercícios</h1>
-<p>Exercício 1: Criar um programa para cifrar e decifrar arquivos.</p>
+<p><a href="https://github.com/Fernand-Rosa/MateriaSeguranca-Cifra/tree/main/exercicio1">Exercício 1: Criar um programa para cifrar e decifrar arquivos.</p>
 <ul>
 <li>Criar um cabeçalho (32 bytes) para o arquivo encriptado que contenha os seguintes campos:</li>
 <li>Identificador: 2 bytes</li>
@@ -9,7 +9,7 @@
 <li>IV: 16 bytes.</li>
 <li>Reserved: 11 bytes</li>
 </ul>
-<h1>Exercício 2: Criar um programa para gerar e verificar a integridade de arquivos.</h1>
+<p>Exercício 2: Criar um programa para gerar e verificar a integridade de arquivos.</p>
 <ul>
 <li>Criar um cabeçalho (48 bytes) para o arquivo encriptado que contenha os seguintes campos:</li>
 <li>Identificador: 2 bytes</li>
